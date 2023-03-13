@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nishellobo
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning how to code in python
+- 🌱 I’m aspiring to be a UI/UX developer
 - 📫 How to reach me nishel.lobo@gmail.com
 
 <!---
